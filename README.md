@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=#96037b&size=24&center=true&lines=I'm+Full+Stack+Web+Developer">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23FFC0CB&size=25&center=true&lines=I'm+Full+Stack+Web+Developer">
   </a>
 </p>
 [LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nana-moriyama-5244b01b5)
