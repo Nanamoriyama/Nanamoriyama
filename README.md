@@ -2,10 +2,10 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&lines=I'm+Full+Stack+Web+Developer">
+    <img src="https://readme-typing-svg.herokuapp.com?color=#96037b&size=24&center=true&lines=I'm+Full+Stack+Web+Developer">
   </a>
 </p>
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nana-moriyama-5244b01b5)
+[LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nana-moriyama-5244b01b5)
 
 ## 💼 Skills
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
