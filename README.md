@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm Nana from Japan.
 
-<!--
-**Nanamoriyama/Nanamoriyama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&lines=I'm+Full+Stack+Web+Developer">
