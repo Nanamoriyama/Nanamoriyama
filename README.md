@@ -1,8 +1,8 @@
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=30&pause=1000&color=F78CCF&center=true&vCenter=true&random=false&width=480&height=100&lines=Nana++Moriyama;I'm+a+Full+Stack+Developer" alt="Typing SVG" /></a></h3> 
 
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=30&pause=1000&color=F7D99CDD&center=true&vCenter=true&random=false&width=480&height=100&lines=Connect+with+me+%3A" alt="Typing SVG" /></a>
-<a href="https://www.linkedin.com/in/nana-moriyama-5244b01b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
-<a href="https://instagram.com/nana226_?igsh=MXNqbTk2Nmc1ZWVobQ%3D%3D&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a></h3>
+<h3 align=""><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=30&pause=1000&color=F7D99CDD&center=true&vCenter=true&random=false&width=480&height=100&lines=Connect+with+me+%3A" alt="Typing SVG" /></a>
+<a href="https://www.linkedin.com/in/nana-moriyama-5244b01b5" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+<a href="https://instagram.com/nana226_?igsh=MXNqbTk2Nmc1ZWVobQ%3D%3D&utm_source=qr" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a></h3>
 
 ## 💼 Skills
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
