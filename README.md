@@ -1,4 +1,4 @@
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=30&pause=1000&color=F78CCF&center=true&vCenter=true&random=false&width=480&height=100&lines=Nana++Moriyama;I'm+Full+Stack+Developer" alt="Typing SVG" /></a></h3> 
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=30&pause=1000&color=F78CCF&center=true&vCenter=true&random=false&width=480&height=100&lines=Nana++Moriyama;I'm+a+Full+Stack+Developer" alt="Typing SVG" /></a></h3> 
 
 <h3 align="center">Connect with me:
 <a href="https://www.linkedin.com/in/nana-moriyama-5244b01b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
