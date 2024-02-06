@@ -2,7 +2,7 @@
 
 <h3 align="center">Connect with me:
 <a href="https://www.linkedin.com/in/nana-moriyama-5244b01b5" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
-<a href="https://instagram.com/nana226_?igsh=MXNqbTk2Nmc1ZWVobQ%3D%3D&utm_source=qr" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a></h3>
+</h3>
 
 ## 💼 Skills
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
